@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.exe
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.deps.json
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+C:\Users\Marina\source\repos\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.genruntimeconfig.cache

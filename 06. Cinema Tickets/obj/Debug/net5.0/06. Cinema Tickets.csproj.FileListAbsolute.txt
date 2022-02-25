@@ -1,0 +1,5 @@
+C:\Users\Marina\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.csproj.CoreCompileInputs.cache
